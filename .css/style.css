@@ -1,4 +1,28 @@
 body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     background-color: ghostwhite;
     color: rgb(58, 9, 17);
 }
+
+p {
+    margin: 70px;
+}
+
+div {
+    font-size: 20px;
+    margin: 10px;
+    color: black;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: gray;
+}
+
