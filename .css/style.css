@@ -3,8 +3,13 @@ body {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-color: ghostwhite;
-    color: rgb(58, 9, 17);
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
+}
+h1 {
+    font-family: 'LIKEASTONE2';
+    font-size: 60px;
 }
 
 p {
@@ -14,15 +19,15 @@ p {
 div {
     font-size: 20px;
     margin: 10px;
-    color: black;
+    color: white;
 }
 
 nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+    align-items: stretch | center;
     height: 50px;
-    background-color: gray;
+    background-color: black;
 }
 
