@@ -5,7 +5,7 @@ body {
     align-items: center;
     background-color: black;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif'
 }
 h1 {
     font-family: 'LIKEASTONE2';
@@ -26,7 +26,7 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: stretch | center;
+    align-items: stretch center;
     height: 50px;
     background-color: black;
 }
