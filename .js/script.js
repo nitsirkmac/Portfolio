@@ -17,3 +17,8 @@ document.getElementById('message').placeholder = "Send me a message!"
 
 // document.getElementById('#send')
 // function - send to my email address
+
+// Nav-bar : hover over item to underline, click to move page to that section
+
+// animation - linedrawing lunar moth
+
