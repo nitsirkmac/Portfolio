@@ -9,7 +9,7 @@ body {
     align-items: center;
     background-color: #04010a;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif'
+    font-family: 'Academy Engraved LET';
 }
 h1 {
     font-family: 'LIKEASTONE2';
@@ -34,6 +34,7 @@ div {
     font-size: 20px;
     margin: 10px;
     color: white;
+    font-family: 'Academy Engraved LET';
 }
 
 nav {
