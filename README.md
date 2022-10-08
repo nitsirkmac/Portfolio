@@ -48,8 +48,8 @@
  Use this section to list all supporting libraries and thier role in the project. 
 
 ## Code Snippet
-<!-- 
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description   -->
+
+ <!-- <a href="https://www.linkedin.com/in/krissy-macdonald-5a402a127/"><i id="linkedIn" class="fa-brands fa-linkedin" ></i></a> -->
 
 ```
 
