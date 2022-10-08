@@ -1,10 +1,6 @@
 console.log("Hello Darkness")
 
-var menuLinks = [
-    { text: 'bio', href: '/bio'},
-    { text: 'catalog', href: '/catalog'},
-    { text: 'contact', href: '/contact'},
-]
+
 
 
 

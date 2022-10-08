@@ -2,6 +2,33 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    background-color:#04010a;
+}
+
+nav {
+    font-family: 'Academy Engraved LET';
+    font-size: 15px;
+    gap: 30px;
+}
+
+
+#photo {
+    height: 220px;
+    border: solid #673ab7 6px;
+
+}
+
 body {
     display: flex;
     justify-content: center;
@@ -19,6 +46,8 @@ h1 {
 h3 {
     font-family: 'LIKEASTONE2';
     font-size: 40px;
+    justify-content: center;
+
 }
 
 h4 {
@@ -27,7 +56,7 @@ h4 {
 }
 
 p {
-    margin: 70px;
+    margin: 90px;
 }
 
 div {
@@ -37,17 +66,101 @@ div {
     font-family: 'Academy Engraved LET';
 }
 
-nav {
+#bio {
+    background-color:#04010a;
+    height: 600px;
+    
+
+}
+
+#catalog {
+    display: flex;
+    background-color:#04010a;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+}
+
+aside {
+    font-size: 180px;
+}
+
+a, a:visited {
+    color: #673ab7;
+    text-decoration: none;
+}
+
+#contact {
+    display: flex;
+    justify-content: center;
+    background-color: #04010a;
+    height: 700px;
+    width: 100%;
+}
+
+/* nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: stretch center;
     height: 50px;
     background-color: black;
+} */
+
+footer {
+    background-color:#04010a;
+    display: flex;
+    height: 50px;
+    width: 100%;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: 25px;
+}
+
+
+
+
+/* header {
+    height: 150px;
+    margin: 10px 10px;
+}
+
+nav {
+    height: 50px;
+    position: fixed;
+}
+
+div {
+    margin: 10px 10px;
 }
 
 footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    height: 150px;
+    margin: 10px 0;
 }
+
+main {
+    height: 500px;
+    margin: 10px 10px;
+    display: inline-block;
+}
+
+aside {
+    height: 300px;
+    margin: 10px 10px;
+    display: inline-block; 
+}
+
+#page-content-first, #page-content-second {
+    display: flex;
+}
+
+main {
+    flex-grow: 1;
+}
+
+aside {
+    flex-grow: 1;
+}  */
