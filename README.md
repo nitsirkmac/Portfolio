@@ -6,8 +6,8 @@
 |Day 1| Project Description | Complete
 |Day 2| Wireframes / Priority Matrix / Timeline | Complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
-|Day 4| MVP & Bug Fixes | Incomplete
-|Day 5| Final Touches | Incomplete
+|Day 4| MVP & Bug Fixes | Complete
+|Day 5| Final Touches | complete
 |Day 6| Present | Incomplete
 
 ## Wireframes

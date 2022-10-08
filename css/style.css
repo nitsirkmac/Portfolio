@@ -58,6 +58,7 @@ h3 {
     font-family: 'LIKEASTONE2';
     font-size: 40px;
     justify-content: center;
+    align-items: center;
 
 }
 
@@ -123,6 +124,7 @@ footer {
     width: 100%;
     flex-direction: row;
     justify-content: flex-end;
+    gap: 10px;
     font-size: 25px;
 }
 
