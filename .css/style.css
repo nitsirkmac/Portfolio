@@ -100,14 +100,7 @@ a, a:visited {
     width: 100%;
 }
 
-/* nav {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: stretch center;
-    height: 50px;
-    background-color: black;
-} */
+
 
 footer {
     background-color:#04010a;
@@ -122,45 +115,3 @@ footer {
 
 
 
-/* header {
-    height: 150px;
-    margin: 10px 10px;
-}
-
-nav {
-    height: 50px;
-    position: fixed;
-}
-
-div {
-    margin: 10px 10px;
-}
-
-footer {
-    height: 150px;
-    margin: 10px 0;
-}
-
-main {
-    height: 500px;
-    margin: 10px 10px;
-    display: inline-block;
-}
-
-aside {
-    height: 300px;
-    margin: 10px 10px;
-    display: inline-block; 
-}
-
-#page-content-first, #page-content-second {
-    display: flex;
-}
-
-main {
-    flex-grow: 1;
-}
-
-aside {
-    flex-grow: 1;
-}  */
