@@ -6,6 +6,8 @@ html {
     scroll-behavior: smooth;
 }
 
+
+
 header {
     display: flex;
     flex-direction: row;
@@ -27,6 +29,14 @@ nav {
     height: 220px;
     border: solid #673ab7 6px;
 
+}
+
+button {
+    font-family: 'LIKEASTONE2';
+    font-size: 30px;
+    height: 60px;
+    background-color:#04010a;
+    color: white;
 }
 
 body {
@@ -100,6 +110,9 @@ a, a:visited {
     width: 100%;
 }
 
+#linkedIn {
+    transition: rotate 300ms;
+}
 
 
 footer {
