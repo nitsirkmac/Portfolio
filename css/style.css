@@ -78,6 +78,11 @@ div {
     font-family: 'Academy Engraved LET';
 }
 
+#intro {
+    display: flex;
+    justify-content: center;
+}
+
 #bio {
     background-color:#323643;
     height: 600px;
